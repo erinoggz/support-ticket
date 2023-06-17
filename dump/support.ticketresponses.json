@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "648a1c0e68e8e802d6dbddba"
+  },
+  "ticket": {
+    "$oid": "64898fbfda9b2e7b3e083444"
+  },
+  "user": {
+    "$oid": "64897fc1f6626859edfdc888"
+  },
+  "text": "Can an Agent look at this please",
+  "createdAt": {
+    "$date": "2023-06-14T19:59:10.739Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-14T19:59:10.739Z"
+  },
+  "__v": 0
+}]

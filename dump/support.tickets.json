@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "64898fbfda9b2e7b3e083444"
+  },
+  "user": {
+    "$oid": "64897b0182a5694479e3ffc9"
+  },
+  "status": "OPEN",
+  "issue": "why is my app not running",
+  "createdAt": {
+    "$date": "2023-06-14T10:00:31.880Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-15T19:45:14.693Z"
+  },
+  "__v": 0,
+  "responses": [
+    {
+      "$oid": "648a1c0e68e8e802d6dbddba"
+    }
+  ]
+}]

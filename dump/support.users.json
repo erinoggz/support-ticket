@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "64897b0182a5694479e3ffc9"
+  },
+  "email": "hilarykingfanny@gmail.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$j9geII0gxPRME94/SJT6/w$FFCH1WhlKxYsWVVv6hk/N06oxh2X7MJ7a69As23AcyY",
+  "userType": "CUSTOMER",
+  "createdAt": {
+    "$date": "2023-06-14T08:32:01.953Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-14T08:32:01.953Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64897fc1f6626859edfdc888"
+  },
+  "email": "erin.deji@gmail.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$zWoNdADkcB+Tf0uqa7G/ZQ$cYiOc3Krbg0ocp7vAmV48tq/ovqrP/K5YMW1Ue2lwuM",
+  "userType": "ADMIN",
+  "userName": "ezikiel-ad",
+  "createdAt": {
+    "$date": "2023-06-14T08:52:17.784Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-14T08:52:17.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "648c112fc9dd8aa9e4b659d6"
+  },
+  "email": "agent@gmail.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$312gNSuqrBKDEo9rxjr7SA$RVj8oMGJ7l48Tsk76HeHjOEcCLLEX1SUGB8353gatpI",
+  "userType": "AGENT",
+  "userName": "agent-noah",
+  "createdAt": {
+    "$date": "2023-06-16T07:37:19.452Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-16T07:37:19.452Z"
+  },
+  "__v": 0
+}]
